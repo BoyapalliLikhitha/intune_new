@@ -79,7 +79,7 @@ async function authRecoveryKey(clientId, clientSecret, tenantId) {
         client_id: clientId,
         client_secret: clientSecret,
         username: 'nbhurli@stefaninidemo1.onmicrosoft.com',
-        password: 'Stefanini123!'
+        password: 'Stefanini@123!'
     };
 
     try {
